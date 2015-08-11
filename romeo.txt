@@ -12,4 +12,6 @@ ROMEO: What light through yonder window breaks?
 
 JULIET: Wherefor art thou, Romeo?
 
+(More lasers)
+
 THE END?
