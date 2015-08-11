@@ -12,4 +12,6 @@ ROMEO: What light through yonder window breaks?
 
 JULIET: Wherefor art thou, Romeo?
 
+JULIET: A rose by any other name would smell as sweet.  
+
 THE END?
